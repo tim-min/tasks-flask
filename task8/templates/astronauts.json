@@ -1,0 +1,20 @@
+{
+    "1": {
+        "name": "Гриша",
+        "surname": "Белов",
+        "image": "https://allforchildren.ru/why/illustr/how102.jpg",
+        "profs": ["Механик", "Повар", "Водитель марсохода"]
+    },
+    "2": {
+        "name": "Гоша",
+        "surname": "Иванов",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvzhKZUcaEqP_A3HtLTxk4TjrTSLhRy0jA3g&usqp=CAU",
+        "profs": ["Программист", "Инженер", "Пилот"]
+    },
+    "3": {
+        "name": "Паша",
+        "surname": "Иванов",
+        "image": "https://www.web-paint.ru/wp-content/uploads/2018/04/kak-risovat-kosmonavta-8.jpg",
+        "profs": ["Садовод", "Биолог"]
+    }
+}

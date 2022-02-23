@@ -1,0 +1,19 @@
+{% extends "index.html" %}
+
+{% block content %}
+<h1>Оформление каюты</h1>
+<table>
+    <tr>
+        <th>Цвет каюты</th>
+        <th>Эмблема</th>
+    </tr>
+    <tr>
+        <th>
+            <div style="width: 100px; height: 100px; background-color: rgb{{ color }};"></div>
+        </th>
+        <th>
+            <image src="{{ image }}" width="100px", height="250px"></image>
+        </th>
+    </tr>
+</table>
+{% endblock %}
