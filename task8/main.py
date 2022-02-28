@@ -15,7 +15,7 @@ def get_astronaut():
     return choice(result)
 
 
-@app.route('/table')
+@app.route('/member')
 def index():
     astronaut = get_astronaut()
     astronaut["profs"] = ", ".join(sorted(astronaut["profs"]))
